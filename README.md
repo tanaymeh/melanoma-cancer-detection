@@ -39,7 +39,7 @@ Apart from Basic Transformations and Data Classes, I have made a Network Class t
 
 It can be trained using either ResNet or EfficientNet for the time being. Currently, it just uses the image as a feature to train the model, but I am planning on doing `Feature Concatenation` to join image feature with other meta-features such as `Age` and `Sex`.
 
-I have provided the trained weights of the best model (till now) [here](exports\best_model.pth).
+I have provided the trained weights of the best model (till now) [here](exports/best_model.pth).
 
 ## Results - Under Work
 
