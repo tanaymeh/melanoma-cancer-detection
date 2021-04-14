@@ -47,6 +47,6 @@ Currently, the model achieves a final **Validation Accuracy** of `~78%`.
 
 Which puts me in top-80% on the global leaderboard, which I intend to improve.
 
-### Links:
+### Links
 - [My Kaggle Notebook](www.kaggle.com/heyytanay/siim-isic-all-you-need-to-get-started/)
 - [SIIM-ISIC Melanoma Classification](https://www.kaggle.com/c/siim-isic-melanoma-classification)
