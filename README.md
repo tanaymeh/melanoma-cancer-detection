@@ -22,10 +22,10 @@ Images are also provided in JPEG and TFRecord format (in the jpeg and tfrecords 
 
 Metadata is also provided outside of the DICOM format, in CSV files
 
-## The Target
+## Our Target
 We are predicting a binary target for each image. The model should predict the probability (floating point) between 0.0 and 1.0 that the lesion in the image is malignant (the target). In the training data, train.csv, the value 0 denotes benign, and 1 indicates malignant.
 
-## The Approach
+## Approach
 
 ![Data Imbalance in the original data](images/target_siim.png "Data Imbalance in the original data")
 
